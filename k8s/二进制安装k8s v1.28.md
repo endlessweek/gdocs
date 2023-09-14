@@ -44,7 +44,7 @@ pod：172.16.0.0/12
 安装包已经整理好：
 包括所有k8s所需包、证书、yaml、json
 https://ghproxy.com/https://github.com/cby-chen/Kubernetes/releases/download/v1.28.0/kubernetes-v1.28.0.tar
-![title](/api/file/getImage?fileId=64fb26a3794ba80051000011)
+
 
 
 ## 1.1.k8s基础系统环境配置

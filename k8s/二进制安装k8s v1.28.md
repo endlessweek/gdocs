@@ -8,7 +8,7 @@
 
 kubernetes（k8s）二进制高可用安装部署，支持IPv4+IPv6双栈。
 
-我使用IPV6的目的是在公网进行访问，所以我配置了IPV6静态地址。
+我使用IPV6的目的是在公网进行访问，所以我配置了IPV6静态地址。calico-kube-controllers-7ddc4f45bc-994tv
 
 若您没有IPV6环境，或者不想使用IPv6，不对主机进行配置IPv6地址即可。
 
